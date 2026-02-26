@@ -46,7 +46,7 @@ const Navbar = () => {
       
       </ul>
     </div>
-    <a className="text-xl italic text-black font-semibold">Jaay's</a>
+    <a className="text-xl italic text-black font-semibold">Jaay&apos;s</a>
   </div>
   <div className="navbar-center ">
     <div className='hidden lg:flex '>
